@@ -1,0 +1,24 @@
+{
+  "trainings": [
+    {
+      "id": "68e5",
+      "date": "2025-01-01",
+      "activity": "Hyrox",
+      "work": "Run Conditioning\n5 Rounds\n3 minutos easy pace\n2 minutos moderado pace\n1 minuto hard pace",
+      "comment": "30 minutos ritmo promedio total 4.35"
+    },
+    {
+      "id": "83b7",
+      "date": "",
+      "activity": "Hyrox",
+      "work": "Run Conditioning \n5 Rounds \n3 minutos easy pace \n2 minutos moderado pace \n1 minuto hard pace\n"
+    },
+    {
+      "id": "2c37",
+      "date": "2025-01-08",
+      "activity": "Hyrox",
+      "work": "<p>Run Conditioning </p><p>5 Rounds </p><p>3 minutos easy pace </p><p>2 minutos moderado pace </p><p>1 minuto hard pace</p>",
+      "comment": "<p>30 minutos total</p><p>ritmo promedio: 4.30km</p>"
+    }
+  ]
+}
